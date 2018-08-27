@@ -9,7 +9,6 @@ public class Minesweeper {
     private int rows;
     private int columns;
     private int minesAmount;
-    private String name;
 
     public Minesweeper(int rows, int columns) {
         this.rows = rows;
